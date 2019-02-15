@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## v2.0.0 - 2019-02-15
+
+### Misc
+
+- Upgrade to Electron v3
+- Fix incorrect drives list on Linux
+- Changed “Drive Contains Image” to “Drive Mountpoint Contains Image”
+
 ## v1.4.9 - 2018-12-19
 
 ### Fixes
